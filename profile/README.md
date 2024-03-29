@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/120292474?s=400&u=b43285e1f1e9a6febca420a9c79b683f701ad5fa&v=4" height="100" align="right" />
+<img src="https://avatars.githubusercontent.com/u/120292474?s=400&u=b43285e1f1e9a6febca420a9c79b683f701ad5fa&v=4" height="64" align="right" />
 
 # Web & Software Engineering (WSE) Research
 
